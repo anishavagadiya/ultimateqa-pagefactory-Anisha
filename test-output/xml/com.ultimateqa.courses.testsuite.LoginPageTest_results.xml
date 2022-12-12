@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPage Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.204">
+  <properties />
+  
+  
+            <testcase name="userShouldNavigateToLoginPageSuccessfully" time="2.081" classname="com.ultimateqa.courses.testsuite.LoginPageTest" />
+                <testcase name="verifyTheErrorMessage" time="8.123" classname="com.ultimateqa.courses.testsuite.LoginPageTest" />
+      
+</testsuite>
